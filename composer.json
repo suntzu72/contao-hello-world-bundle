@@ -4,6 +4,7 @@
     "description": "Skeleton for custom Contao 4 bundles",
     "homepage": "https://contao.org",
     "license": "LGPL-3.0-or-later",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Sun You",
